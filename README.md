@@ -1,4 +1,4 @@
-### Hi there 👋
+### Wassup 👋
 
 I’m Cabin Zhu, a CS undergraduate student from China.
 
