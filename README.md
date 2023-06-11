@@ -1,7 +1,6 @@
 ### Wassup 👋
 
-I’m Cabin Zhu, a CS undergraduate student from China.
+I’m Cabin Zhu, a candidate of PhD @ HKU/CS.
 
 - 🌱 I’m interested in systems, machine learning and large-scale software development.
-- 📕 I’m the author of Vocab Manager. 
-
+- 📕 I like developing tiny software tools for daily study and work. Welcome to use and give feedbacks on Vocab Manager, CV-Export and other tools I built :D
