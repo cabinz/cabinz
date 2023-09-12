@@ -1,6 +1,6 @@
 ### Hi, I’m Cabin Zhu 👋
 
-I'm currently a candidate of PhD @ HKU/CS. I used to be a SWE intern at Apple for half a year in 2023.
+I'm currently a candidate of PhD @ HKU/CS. Former SWE intern @ Apple R&D.
 
 - 🌱 My research focus on systems, machine learning and large-scale software development.
 - 🛠️ I'm interested in automation tool development, for both work and daily life.
