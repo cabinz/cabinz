@@ -7,7 +7,7 @@ I'm a current PhD student @ HKU/CS.
 
 Here are a few of the automation script tools I've crafted for my daily use, which may also be helpful to you:
 - [Gym Track Visualizer (GViz)](https://github.com/cabinz/gym-track-visualizer)
-- [Easy Split](https://github.com/cabinz/easy-split)
+- [Split-Bill](https://github.com/cabinz/split-bill)
 - [CV Export](https://github.com/cabinz/CV-Export)
 
 Feel free to check these projects out and share your thoughts. Your feedback is invaluable to me! 😊🚀
